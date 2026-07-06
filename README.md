@@ -36,3 +36,36 @@ cargo run
 ## Hackathon
 Built for Casper Agentic Buildathon 2026 on DoraHacks
 Track: Agentic AI
+
+## 🧪 Testing Instructions (Step by Step)
+
+### Prerequisites
+- Rust installed (`rustup.rs`)
+- Git installed
+
+### Step 1 — Clone the repo
+```bash
+git clone https://github.com/Investordaniel-lgtm/gitscout-casper
+cd gitscout-casper
+```
+
+### Step 2 — Run the agent
+```bash
+cargo run
+```
+
+### Step 3 — Expected output
+- ✅ x402 payment simulation on Casper
+- ✅ 5 data points collected and verified
+- ✅ ZK proofs generated for each data point
+- ✅ Agent earnings summary in CSPR displayed
+
+## 🔗 Contract Details
+- **Network:** Casper Testnet
+- **Stack:** Rust, x402 Protocol, ZK Proofs, Odra Framework
+- **Agent type:** Autonomous data oracle
+
+## 🏆 Hackathon
+Built for **Casper Agentic Buildathon 2026** on DoraHacks
+- Track: Agentic AI
+- Built in under 24 hours
